@@ -1,2 +1,1 @@
-# ZumoRobot
-Source code for ZumoRobot
+# PSoC Creator project for Metropolia PSoC-Zumo adapter
